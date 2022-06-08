@@ -1,0 +1,25 @@
+.intro {
+  background-image: url("https://www.google.com/search?q=pikachu+images&sxsrf=ALiCzsZurCnqavwBpZ-JAAcm1-3gwjAjhA:1654678115160&tbm=isch&source=iu&ictx=1&vet=1&fir=T3zUGbKWhRet5M%252ChQKsTDn1WfJISM%252C_%253Bgzl_jc30B8I3gM%252Cqd-nt3OZ9CqI2M%252C_%253BEZB7ODnG3cqPpM%252CgShzDjfFLb_pXM%252C_%253B7EaLkTKUVVwBHM%252CzGBGo18DHIjISM%252C_%253B8uo2bOWHShtqGM%252C_uzStxvNN18ByM%252C_%253B1r1Qv2xJZMuPgM%252CAEMMNkY5snf5OM%252C_%253B833nMEiMoHT9tM%252CqcIRFCw84Cp1wM%252C_%253BYFRSlWeieGQsBM%252CP2PtRud9TaR5_M%252C_%253BrZusm183GZdGoM%252CXDaNj1WRHiubAM%252C_%253BgkCJVDTUXYdjRM%252CSV1gAqn_g2gCyM%252C_%253Bp-lHV4Xvn2T7NM%252CRErtJ6HoYPhpfM%252C_%253BUDgr5We4AXkcHM%252CvPZdlLbbeU8v9M%252C_%253BZ_PZg83XP8JNZM%252CZIdE9fQTDyjaSM%252C_%253Bed3e3dgYqWnXcM%252CuROFk5tsyx5t8M%252C_%253BtRCWqbKi-kpqUM%252CXejpCFrY8LEfiM%252C_%253BYQsVr_F4XBbYyM%252Ckqllv30L-ApzFM%252C_%253BkQzrPut-kDMAfM%252CjiimY22XH_pbJM%252C_%253BtCgWswYjq7sOAM%252Cboaj01bnfabnFM%252C_&usg=AI4_-kRLJJAtbjoimZ8qFUjPDa4z2ylUMg&sa=X&ved=2ahUKEwiO8JWqvJ34AhW0TmwGHTCAChEQ9QF6BAgEEAE#imgrc=EZB7ODnG3cqPpM");
+  padding: 20px;
+  border: 20px;
+  width: 100%;
+  height: 100%;
+  background-color: blueviolet;
+  background-repeat: inherit;
+  background-attachment:fixed ;
+
+}
+
+ol.lower-alpha {
+  list-style: lower-alpha;
+}
+ul.circle {
+  list-style: circle;
+}
+ul.square {
+  list-style: square;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 20px 40px;
+}
